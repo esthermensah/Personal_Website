@@ -35,15 +35,16 @@ worconst siteConfig = {
     ],
     education: [
       {
-        degree: "Bachelor's in Computer Science",
-        institution: 'Ashesi University,Ghana',
-        year: '2018 - 2022',
+        degree: 'MSc Electrical & Computer Engineering',
+        institution: 'Carnegie Mellon University',
+        year: '2023 - 2025',
       },
       {
-        degree: 'MLH Fellowship, Open Source',
-        institution: 'MLH x G-Research',
-        year: '2023 - 2023',
+        degree: "BSc Computer Engineering",
+        institution: 'Ashesi University' ,
+        year: '2018 - 2022',
       },
+      
       ],
   },
   publications: [

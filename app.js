@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function () {
     nav.appendChild(navList)
   }
 
-  function renderAbout() {
+/*  function renderAbout() {
     document.getElementById('about-content').textContent =
       siteConfig.about.content
 
@@ -112,7 +112,31 @@ document.addEventListener('DOMContentLoaded', function () {
             `
       educationList.appendChild(eduItem)
     })
-  }
+  } */
+
+  function renderAbout() {
+  document.getElementById('about-content').innerHTML =
+    siteConfig.about.content
+
+  const interestsList = document.getElementById('interests-list')
+  siteConfig.about.interests.forEach((interest) => {
+    const li = document.createElement('li')
+    li.textContent = interest
+    interestsList.appendChild(li)
+  })
+
+  const educationList = document.getElementById('education-list')
+  siteConfig.about.education.forEach((edu) => {
+    const eduItem = document.createElement('div')
+    eduItem.className = 'education-item'
+    eduItem.innerHTML = `
+      <span class="education-degree">${edu.degree}</span>
+      <span class="education-institution">${edu.institution}</span>
+      <span class="education-year">${edu.year}</span>
+    `
+    educationList.appendChild(eduItem)
+  })
+}
 
   function renderPublications() {
     const publicationsList = document.getElementById('publications-list')

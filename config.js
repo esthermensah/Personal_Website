@@ -1,4 +1,4 @@
-worconst siteConfig = {
+const siteConfig = {
   personal: {
     name: 'Esther Dzifa',
     title: 'MSc @ Carnegie Mellon University',

@@ -27,10 +27,9 @@ const siteConfig = {
   about: {
     title: 'About me',
     content:
-      `I hold a MSc. in Electrical & Computer Engineering from Carnegie Mellon University. 
-      My research and project interests center on Computer Networking, IoTs, and Cloud computing. 
-      On the days when I am not being an engineer, I am either managing an event or creating content on my <a href="https://dzifaesther.wordpress.com/" target="_blank">blog</a> or 
-      <a href="https://www.youtube.com/@growingwithDzidzi" target="_blank">YouTube channel</a>.`,
+      `I hold a MSc. in Electrical & Computer Engineering from Carnegie Mellon University.  My research and projects interests center on Computer Networking, IoTs, and Cloud computing. 
+    On the days when I am not being an engineer, I am either managing an event or creating content on my <a href="https://dzifaesther.wordpress.com" target="_blank" class="gradient-link">blog</a> 
+    or <a href="https://www.youtube.com/@growingwithDzidzi" target="_blank" class="gradient-link">YouTube channel</a>.`,
 
     interests: [
       'Networking infrastructure and Automation',

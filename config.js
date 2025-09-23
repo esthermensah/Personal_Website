@@ -52,30 +52,22 @@ const siteConfig = {
     {
       title:
         'Rural Connectivity: An Opportunistic Connectivity for Challenged Communities in Africa to Access Digital Public Goods/Infrastructures',
-      authors: 'Boukar, B.',
+      authors: 'Mohamed Alimamy Fofanah, Izera Ifituburyo Pacifique, Esther Dzifa Mensah, Emmanuel Ndashimye, Assane Gueye',
       venue: 'ACM, the Association for Computing Machinery',
-      year: '2024',
-      type: 'blog',
+      year: '2025',
+      type: 'Academic paper',
     },
    
   
   ],
   projects: [
-    {
-      title: 'Riverpod Intellisense',
+        {
+      title: 'Smart StreetLight Monitoring',
       description:
-        'VS Code extension providing intelligent code completion and snippets for Flutter Riverpod state management',
-      year: '2024',
-      link: 'https://github.com/baimamboukar/riverpod-intellisense',
-      tags: ['TypeScript', 'VS Code', 'Flutter', 'Developer Tools'],
-    },
-    {
-      title: 'Sahel Fund',
-      description:
-        'Digital wallet and payment solution app built with Flutter, featuring secure transactions and QR code payments',
-      year: '2023',
-      link: 'https://github.com/baimamboukar/swiftpay',
-      tags: ['Flutter', 'Firebase', 'Payment Gateway', 'Mobile'],
+        'A retrofitting unit designed to attch intelligence to legacy streetlights',
+      year: '2022',
+      link: 'https://github.com/esthermensah/Smart_Streetlight_System',
+      tags: ['Wireless communication, bit communication and coding', 'embedded systems ', 'IoT', 'LoRa'],
     },
     {
       title: 'Portfolio Website',
@@ -84,14 +76,6 @@ const siteConfig = {
       year: '2023',
       link: 'https://baimamboukar.dev',
       tags: ['Next.js', 'React', 'Tailwind CSS', 'Vercel'],
-    },
-    {
-      title: 'Cosmosense',
-      description:
-        'For Space exploration enthusiasts, Cosmosense provides real-time tracking of satellites and space missions with detailed info and alerts',
-      year: '2022',
-      link: 'https://github.com/baimamboukar/cosmosense',
-      tags: ['Flutter', 'Node.js', 'MongoDB', 'REST API'],
     },
     {
       title: 'Asteroidly',
@@ -104,18 +88,11 @@ const siteConfig = {
   ],
   certifications: [
     {
-      title: 'Flutter Development Bootcamp',
-      issuer: 'App Brewery',
-      date: '2023',
+      title: 'Cisco Certified Network Associate',
+      issuer: 'Cisco',
+      date: '2024',
       credential: 'https://www.appbrewery.co/certificate/flutter',
-      description: 'Comprehensive Flutter and Dart programming certification',
-    },
-    {
-      title: 'AWS Academy Graduate',
-      issuer: 'AWS',
-      date: '2023',
-      credential: 'https://www.udemy.com/certificate/aws',
-      description: 'Cloud computing fundamentals and AWS services knowledge',
+      description: 'A globally recognized certification validating knowledge and skills in networking, security, automation, and IT infrastructure.',
     },
     {
       title: 'AWS Cloud Practitioner',
@@ -123,21 +100,6 @@ const siteConfig = {
       date: '2022',
       credential: 'https://aws.amazon.com/certification',
       description: 'Foundational understanding of AWS Cloud',
-    },
-    {
-      title: 'Github Foundations',
-      issuer: 'Github',
-      date: '2024',
-      credential: 'https://aws.amazon.com/certification',
-      description: 'Official Github Certification on Git and Github workflows',
-    },
-    {
-      title: 'Google Developer Student Club Lead',
-      issuer: 'Google',
-      date: '2022-2023',
-      credential: 'https://gdsc.community.dev',
-      description:
-        'Led technical workshops and community events for student developers',
     },
   ],
   experience: [
@@ -149,30 +111,7 @@ const siteConfig = {
       description:
         'Building custom web and mobile solutions for clients worldwide using Flutter, React, and Node.js',
     },
-    {
-      position: 'Mobile Engineer',
-      company: 'Caasitech Group LLC',
-      location: 'Yaoundé, Cameroon',
-      period: '2022 - 2023',
-      description:
-        'Developed mobile applications for local businesses, implemented payment integrations and real-time features',
-    },
-    {
-      position: 'Google DSC Lead',
-      company: 'Google Developer Student Clubs',
-      location: 'ICT University, Yaounde',
-      period: '2022 - 2023',
-      description:
-        'Organized workshops, hackathons, and tech talks. Mentored 50+ students in web and mobile development',
-    },
-    {
-      position: 'Open Source Contributor',
-      company: 'G-Research, AWSLabs, RkBoot, and others',
-      location: 'Remote',
-      period: '2021 - Present',
-      description:
-        'Contributing to Flutter packages, React libraries, and developer tools on GitHub',
-    },
+    
   ],
   colors: {
     reInventPurple: '#9D5CAE',

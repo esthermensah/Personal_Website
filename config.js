@@ -38,53 +38,27 @@ const siteConfig = {
     education: [
       {
         degree: "Bachelor's in Computer Science",
-        institution: 'ICT University, Ashesi University',
-        year: '2021 - Present',
+        institution: 'Ashesi University,Ghana',
+        year: '2018 - 2022',
       },
       {
         degree: 'MLH Fellowship, Open Source',
         institution: 'MLH x G-Research',
         year: '2023 - 2023',
       },
-      {
-        degree: 'Msc In IT, Applied ML',
-        institution: 'CMU Africa',
-        year: '2024 - Present',
-      },
-    ],
-  },
+      ],
+
   publications: [
     {
       title:
-        'Setting up a Self-Hosted GitHub Actions Runner on AWS Virtual Machines',
+        'Rural Connectivity: An Opportunistic Connectivity for Challenged Communities in Africa to Access Digital Public Goods/Infrastructures',
       authors: 'Boukar, B.',
-      venue: 'Medium Technical Blog',
+      venue: 'ACM, the Association for Computing Machinery',
       year: '2024',
       type: 'blog',
     },
-    {
-      title:
-        'Geographical Features based Upper-Tropospheric RHi prediction using Machine Learning for Enhanced Contrails Forecasting for African Airspace.',
-      authors: 'Alice M., Baimam B., Jonathan K., et al.',
-      venue: 'MIGARS',
-      year: '2025',
-      type: 'Conference',
-    },
-    {
-      title:
-        'Deep Learning Based Potentially Hazardous Asteroids Classification Using GNNs',
-      authors: 'Boukar, B.',
-      venue: 'Hardvard Astrophysics Workshop',
-      year: '2025',
-      type: 'Workshop',
-    },
-    {
-      title: 'Serverless Retrieval Augmented Generation with AWS SageMaker.',
-      authors: 'Boukar, B.',
-      venue: 'Personal Blog',
-      year: '2023',
-      type: 'blog',
-    },
+   
+  
   ],
   projects: [
     {

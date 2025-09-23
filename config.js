@@ -27,13 +27,11 @@ const siteConfig = {
   about: {
     title: 'About me',
     content:
-      'I am a master student at Carnegie Mellon University. My research and projects interests center on Space Technologies, Machine Learning applications in Healthcare and Earth Observation. My expertise lies in software engineering and cloud computing.',
+      'I hold a MSc. in Electrical & Computer Engineering from Carnegie Mellon University. My research and projects interests center on Computer Networking Iots, and Cloud computing. On the days when I am not being an engineer, I am either manging an event or producing creating content on my blog or youtube channel.',
     interests: [
-      'Space Missions Design',
-      'Sattelites Constellations',
+      'Networking infrastructure and Automation',
       'Cloud Computing',
-      'Open Source',
-      'Machine Learning',
+      'Security by design',
     ],
     education: [
       {

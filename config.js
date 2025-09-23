@@ -47,7 +47,7 @@ const siteConfig = {
         year: '2023 - 2023',
       },
       ],
-
+  },
   publications: [
     {
       title:

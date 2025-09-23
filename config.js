@@ -1,4 +1,4 @@
-const siteConfig = {
+worconst siteConfig = {
   personal: {
     name: 'Esther Dzifa',
     title: 'MSc @ Carnegie Mellon University',
@@ -10,10 +10,10 @@ const siteConfig = {
       'https://github.com/user-attachments/assets/19771f37-ee31-43d6-a993-29de6929379c',
     bio: '🥷 I am Designed For Success',
     social: {
-      email: 'mailto:baimamboukar@gmail.com',
-      github: 'https://github.com/baimamboukar',
-      linkedin: 'https://linkedin.com/in/baimamboukar',
-      twitter: 'https://twitter.com/baimamboukar',
+      email: 'mailto:edmworkmail@gmail.com',
+      github: 'https://github.com/esthermensah',
+      linkedin: 'https://linkedin.com/in/edmensah',
+      twitter: 'https://twitter.com/_esther_dzifa',
     },
   },
   navigation: [

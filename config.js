@@ -80,14 +80,7 @@ worconst siteConfig = {
       link: 'https://baimamboukar.dev',
       tags: ['Next.js', 'React', 'Tailwind CSS', 'Vercel'],
     },
-    {
-      title: 'Asteroidly',
-      description:
-        'Which asteroids are close to Earth today? Asteroidly provides real-time data on near-Earth objects using NASA APIs, with visualizations and alerts',
-      year: '2022',
-      link: 'https://github.com/baimamboukar/weather-app',
-      tags: ['Flutter', 'Weather API', 'Geolocation'],
-    },
+  
   ],
   certifications: [
     {

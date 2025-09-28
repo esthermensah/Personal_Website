@@ -125,8 +125,13 @@ const siteConfig = {
       company: 'Ashesi University',
       location: 'Ghana',
       period: 'Aug 2022 - Aug 2023',
-      description:
-        'Building custom web and mobile solutions for clients worldwide using Flutter, React, and Node.js',
+      description: `
+    <ul>
+      <li>Delivered real-time IT support for students and faculty, including troubleshooting hardware/software issues and maintaining computer systems and networked devices.</li>
+      <li>Coordinated and facilitated lab sessions for 90+ students, assisting with technical concepts in Computer Systems and Applied Cryptography.</li>
+    </ul>
+  `,
+        
     },
     
     

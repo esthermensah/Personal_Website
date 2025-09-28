@@ -98,6 +98,19 @@ const siteConfig = {
     },
   ],
   experience: [
+     {
+      position: 'Research & Data Engineering Intern',
+      company: 'Ashesi University',
+      location: 'Ghana',
+      period: 'Aug 2022 - Aug 2023',
+      description:
+     'Engineered scalable Python ETL pipelines using Pandas and Cloudflare APIs, processing over 1 million data points and boosting data processing efficiency by 30%.',
+     'Automated clustering of 50+ African countries using 15+ internet and World Bank data metrics to enhance network analytics and geospatial insights.',
+     'Developed an interactive Flask dashboard to visualize this data, enabling user-driven analysis of trends.'
+        },
+    
+    
+    
    {
       position: 'Teaching Assistant',
       company: 'Ashesi University',
@@ -106,7 +119,6 @@ const siteConfig = {
       description:
         'Building custom web and mobile solutions for clients worldwide using Flutter, React, and Node.js',
     },
-
     
     {
       position: 'Full Stack Developer',

@@ -93,7 +93,7 @@ const siteConfig = {
       title: 'IELTS General Training',
       issuer: 'British Council / IDP',
       date: '2025',
-      credential: 'https://www.ielts.org/=',
+      credential: 'https://ielts.org/organisations/ielts-for-organisations/test-types/ielts-general-training-test/general-training-test-format-in-detail#:~:text=The%20IELTS%20General%20Training%20test%20is,your%20needs%20please%20get%20in%20contact.',
       description: 'Validated English proficiency for professional and workplace settings, covering listening, reading, writing, and speaking.',
     },
   ],

@@ -46,8 +46,6 @@ const siteConfig = {
         institution: 'Ashesi University' ,
         year: '2018 - 2022',
       },
-      
-      ],
   },
   publications: [
     {
@@ -75,10 +73,18 @@ const siteConfig = {
     {
       title: 'Smart StreetLight Monitoring',
       description:
-        'A retrofitting unit designed to attch intelligence to legacy streetlights',
+        'A retrofitting unit designed to attach intelligence to legacy streetlights',
       year: '2022',
       link: 'https://github.com/esthermensah/Smart_Streetlight_System',
-      tags: ['Wireless communication','bit communication and coding', 'embedded systems ', 'IoT', 'LoRa'],
+      tags: ['Wireless communication','bit communication and coding', 'embedded systems', 'IoT', 'LoRa'],
+    },
+    {
+      title: 'Portfolio Website',
+      description:
+        'Personal portfolio website built with Next.js and Tailwind CSS, showcasing projects and skills',
+      year: '2023',
+      link: 'https://baimamboukar.dev',
+      tags: ['Next.js', 'React', 'Tailwind CSS', 'Vercel'],
     },
   
   ],
@@ -87,7 +93,7 @@ const siteConfig = {
       title: 'Cisco Certified Network Associate',
       issuer: 'Cisco',
       date: '2024',
-      credential: 'https://www.appbrewery.co/certificate/flutter',
+      credential: 'https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html',
       description: 'A globally recognized certification validating knowledge and skills in networking, security, automation, and IT infrastructure.',
     },
     {

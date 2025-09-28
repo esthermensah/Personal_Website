@@ -6,8 +6,7 @@ const siteConfig = {
     department: 'College of Engineering',
     email: 'edmworkmail@gmail.com',
     location: 'Kigali, Rwanda',
-    avatar:
-      'https://github.com/user-attachments/assets/19771f37-ee31-43d6-a993-29de6929379c',
+    avatar:'assets/profile_photo.jpg',
     bio: '🥷 I am Designed For Success',
     social: {
       email: 'mailto:edmworkmail@gmail.com',

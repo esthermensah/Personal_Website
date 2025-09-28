@@ -100,18 +100,25 @@ const siteConfig = {
   experience: [
      {
       position: 'Research & Data Engineering Intern',
-      company: 'Ashesi University',
+      company: 'Carnegie Mellon University',
       location: 'Ghana',
       period: 'Aug 2022 - Aug 2023',
-      description:[
-  'Engineered scalable Python ETL pipelines using Pandas and Cloudflare APIs, processing over 1 million data points and boosting data processing efficiency by 30%.',
-  'Automated clustering of 50+ African countries using 15+ internet and World Bank data metrics to enhance network analytics and geospatial insights.',
-  'Developed an interactive Flask dashboard to visualize this data, enabling user-driven analysis of trends.'
-],
-     
+      description:`
+  <ul>
+    <li>Engineered scalable Python ETL pipelines using Pandas and Cloudflare APIs, processing over 1 million data points and boosting data processing efficiency by 30%.</li>
+    <li>Automated clustering of 50+ African countries using 15+ internet and World Bank data metrics to enhance network analytics and geospatial insights.</li>
+    <li>Developed an interactive Flask dashboard to visualize this data, enabling user-driven analysis of trends.</li>
+  </ul>
+`,
      },
-    
-    
+     {
+      position: 'Network Research Intern',
+      company: 'Cylab-Africa',
+      location: 'Rwanda',
+      period: 'Jun 2023 - Aug 2024',
+      description:
+        'Contributed to the implementation of Bluetooth Low Energy (BLE) mesh for two-way local node connectivity and IoT device integration within an opportunistic delay-tolerant network prototype, facilitating data transfer between the nodes.',
+    },
     
    {
       position: 'Teaching Assistant',
@@ -122,14 +129,6 @@ const siteConfig = {
         'Building custom web and mobile solutions for clients worldwide using Flutter, React, and Node.js',
     },
     
-    {
-      position: 'Full Stack Developer',
-      company: 'KTechhub',
-      location: 'Remote',
-      period: '2023',
-      description:
-        'Building custom web and mobile solutions for clients worldwide using Flutter, React, and Node.js',
-    },
     
   ],
   colors: {

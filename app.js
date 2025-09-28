@@ -242,22 +242,14 @@ document.addEventListener('DOMContentLoaded', function () {
   function renderSkills() {
     const skillsGrid = document.getElementById('cv-skills')
     const allSkills = [
-      'Flutter',
-      'Dart',
-      'React',
-      'Next.js',
-      'TypeScript',
-      'JavaScript',
-      'Node.js',
       'Python',
-      'Firebase',
-      'MongoDB',
-      'PostgreSQL',
+      'Git & Github',
+      'MySql',
+      'Python',
       'Git',
-      'Docker',
+      'VirtualBox',
       'AWS',
-      'Tailwind CSS',
-      'REST API'
+      'Linux Networking'
     ]
 
     allSkills.forEach((skill) => {

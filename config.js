@@ -95,7 +95,7 @@ const siteConfig = {
       title: 'Cisco Certified Network Associate',
       issuer: 'Cisco',
       date: '2024',
-      credential: 'https://www.appbrewery.co/certificate/flutter',
+      credential: 'https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html',
       description: 'A globally recognized certification validating knowledge and skills in networking, security, automation, and IT infrastructure.',
     },
     {

@@ -80,14 +80,7 @@ const siteConfig = {
       link: 'https://github.com/esthermensah/Smart_Streetlight_System',
       tags: ['Wireless communication','bit communication and coding', 'embedded systems ', 'IoT', 'LoRa'],
     },
-    {
-      title: 'Portfolio Website',
-      description:
-        'Personal portfolio website built with Next.js and Tailwind CSS, showcasing projects and skills',
-      year: '2023',
-      link: 'https://baimamboukar.dev',
-      tags: ['Next.js', 'React', 'Tailwind CSS', 'Vercel'],
-    },
+   
   
   ],
   certifications: [

@@ -98,6 +98,16 @@ const siteConfig = {
     },
   ],
   experience: [
+   {
+      position: 'Teaching Assistant',
+      company: 'Ashesi University',
+      location: 'Ghana',
+      period: 'Aug 2022 - Aug 2023',
+      description:
+        'Building custom web and mobile solutions for clients worldwide using Flutter, React, and Node.js',
+    },
+
+    
     {
       position: 'Full Stack Developer',
       company: 'KTechhub',

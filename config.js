@@ -1,8 +1,8 @@
 const siteConfig = {
   personal: {
-    name: 'Esther Dzifa',
-    title: 'MSc @ Carnegie Mellon University',
-    institution: 'CMU Africa',
+    name: 'Esther Dzifa Mensah',
+    title: 'MSc Electrical & Computer Engineering',
+    institution: 'CMU',
     department: 'College of Engineering',
     email: 'edmworkmail@gmail.com',
     location: 'Kigali, Rwanda',

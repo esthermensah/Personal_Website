@@ -101,7 +101,7 @@ const siteConfig = {
      {
       position: 'Research & Data Engineering Intern',
       company: 'Carnegie Mellon University',
-      location: 'Ghana',
+      location: 'Pittsburgh',
       period: 'Aug 2022 - Aug 2023',
       description:`
   <ul>

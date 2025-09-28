@@ -100,9 +100,9 @@ const siteConfig = {
   experience: [
     {
       position: 'Full Stack Developer',
-      company: 'Freelance',
+      company: 'KTechhub',
       location: 'Remote',
-      period: '2023 - Present',
+      period: '2023',
       description:
         'Building custom web and mobile solutions for clients worldwide using Flutter, React, and Node.js',
     },

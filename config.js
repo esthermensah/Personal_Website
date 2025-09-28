@@ -116,8 +116,10 @@ const siteConfig = {
       company: 'Cylab-Africa',
       location: 'Rwanda',
       period: 'Jun 2023 - Aug 2024',
-      description:
-        'Contributed to the implementation of Bluetooth Low Energy (BLE) mesh for two-way local node connectivity and IoT device integration within an opportunistic delay-tolerant network prototype, facilitating data transfer between the nodes.',
+      description: `
+    <ul>
+      <li>Contributed to the implementation of Bluetooth Low Energy (BLE) mesh for two-way local node connectivity and IoT device integration within an opportunistic delay-tolerant network prototype, facilitating data transfer between the nodes.',</li>
+    </ul>` ,
     },
     
    {

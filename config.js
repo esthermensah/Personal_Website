@@ -46,8 +46,6 @@ const siteConfig = {
         institution: 'Ashesi University' ,
         year: '2018 - 2022',
       },
-      
-      ],
   },
   publications: [
     {
@@ -78,7 +76,7 @@ const siteConfig = {
         'A retrofitting unit designed to attach intelligence to legacy streetlights',
       year: '2022',
       link: 'https://github.com/esthermensah/Smart_Streetlight_System',
-      tags: ['Wireless communication','bit communication and coding', 'embedded systems ', 'IoT', 'LoRa'],
+      tags: ['Wireless communication','bit communication and coding', 'embedded systems', 'IoT', 'LoRa'],
     },
    
   

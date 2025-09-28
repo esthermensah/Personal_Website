@@ -90,11 +90,11 @@ const siteConfig = {
       description: 'A globally recognized certification validating knowledge and skills in networking, security, automation, and IT infrastructure.',
     },
     {
-      title: 'AWS Cloud Practitioner',
-      issuer: 'Amazon Web Services',
+      title: 'IELTS General Training',
+      issuer: 'British Council / IDP',
       date: '2025',
-      credential: 'https://aws.amazon.com/certification',
-      description: 'Foundational understanding of AWS Cloud',
+      credential: 'https://www.ielts.org/=',
+      description: 'Validated English proficiency for professional and workplace settings, covering listening, reading, writing, and speaking.',
     },
   ],
   experience: [

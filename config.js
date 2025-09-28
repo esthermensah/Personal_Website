@@ -75,7 +75,7 @@ const siteConfig = {
     {
       title: 'Smart StreetLight Monitoring',
       description:
-        'A retrofitting unit designed to attch intelligence to legacy streetlights',
+        'A retrofitting unit designed to attach intelligence to legacy streetlights',
       year: '2022',
       link: 'https://github.com/esthermensah/Smart_Streetlight_System',
       tags: ['Wireless communication','bit communication and coding', 'embedded systems ', 'IoT', 'LoRa'],

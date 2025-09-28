@@ -62,13 +62,23 @@ const siteConfig = {
   
   ],
   projects: [
-        {
+
+    {
+      title: 'SSH Network Auditor',
+      description:
+        'Automated SSH collection of network state across two Kali VMs (host-only network). Demonstrated network troubleshooting and automation using Python (Paramiko).',
+      year: '2025',
+      link: 'https://github.com/esthermensah/ssh-network-auditor',
+      tags: ['Python(Paramiko)','Network scripting and automation','linux', 'SSH', 'IoT', 'LoRa'],
+    },
+
+    {
       title: 'Smart StreetLight Monitoring',
       description:
         'A retrofitting unit designed to attch intelligence to legacy streetlights',
       year: '2022',
       link: 'https://github.com/esthermensah/Smart_Streetlight_System',
-      tags: ['Wireless communication, bit communication and coding', 'embedded systems ', 'IoT', 'LoRa'],
+      tags: ['Wireless communication','bit communication and coding', 'embedded systems ', 'IoT', 'LoRa'],
     },
     {
       title: 'Portfolio Website',

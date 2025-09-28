@@ -46,6 +46,7 @@ const siteConfig = {
         institution: 'Ashesi University' ,
         year: '2018 - 2022',
       },
+    ],
   },
   publications: [
     {

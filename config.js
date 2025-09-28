@@ -92,7 +92,7 @@ const siteConfig = {
     {
       title: 'AWS Cloud Practitioner',
       issuer: 'Amazon Web Services',
-      date: '2022',
+      date: '2025',
       credential: 'https://aws.amazon.com/certification',
       description: 'Foundational understanding of AWS Cloud',
     },

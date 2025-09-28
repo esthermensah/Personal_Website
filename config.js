@@ -69,7 +69,7 @@ const siteConfig = {
         'Automated SSH collection of network state across two Kali VMs (host-only network). Demonstrated network troubleshooting and automation using Python (Paramiko).',
       year: '2025',
       link: 'https://github.com/esthermensah/ssh-network-auditor',
-      tags: ['Python(Paramiko)','Network scripting and automation','linux', 'SSH', 'IoT', 'LoRa'],
+      tags: ['Python(Paramiko)','Network scripting and automation','linux', 'SSH'],
     },
 
     {

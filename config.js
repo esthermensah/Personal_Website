@@ -7,7 +7,7 @@ const siteConfig = {
     email: 'edmworkmail@gmail.com',
     location: 'Kigali, Rwanda',
     avatar:'assets/profile_photo.jpg',
-    bio: '🥷 I am Designed For Success',
+    bio: '🥷Computer Networking Associate',
     social: {
       email: 'mailto:edmworkmail@gmail.com',
       github: 'https://github.com/esthermensah',

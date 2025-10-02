@@ -97,6 +97,13 @@ const siteConfig = {
       credential: 'https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html',
       description: 'A globally recognized certification validating knowledge and skills in networking, security, automation, and IT infrastructure.',
     },
+     {
+      title: 'ALX Professional oundations',
+      issuer: 'ALX Africa',
+      date: '2025',
+      credential: 'https://savanna.alxafrica.com/certificates/PnB5Ce7mrH?utm_campaign=53995757-ALX%20-%202025%20-%20TR%20-%20PF%20C0&utm_medium=email&_hsenc=p2ANqtz--pnG0j87UWSvM4aA9Jyt3LdLrQiRXPFKNgXikTqoY9M18qLD8MFQ4bWtdMFlEu04hlMDIum1ujj0HmIjTfdZhubIC7xA&_hsmi=104714207&utm_content=104714207&utm_source=hs_email',
+      description: 'An intensive 12 week foundational program designed to build critical meta-skills for tech careers — including leadership, communication, entrepreneurship, critical thinking, quantitative reasoning, task management, and foundational tech skills. Graduates complete individual and team projects and gain workplace readiness skills',
+    },
     {
       title: 'IELTS General Training',
       issuer: 'British Council / IDP',

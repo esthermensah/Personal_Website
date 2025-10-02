@@ -72,6 +72,14 @@ const siteConfig = {
     },
 
     {
+      title: 'Small Office Network Design & Implementation with Cisco Packet Tracer',
+      description:
+        'Designed and implemented a small office LAN in Cisco Packet Tracer with multi-VLAN segmentation, router-on-a-stick inter-VLAN routing, and DHCP services. Configured switch VLANs and trunking between core and access switches. Assigned static IPs for servers and printers, ensuring consistent access to critical network services. Demonstrated skills in network design, troubleshooting, and configuration of enterprise-level features.',
+      year: '2022',
+      link: 'https://github.com/esthermensah/small-office-network-design',
+      tags: ['Subnetting','VLAN','Router-on-a-Stick', 'DHCP', 'Trunking', 'CCNA', 'Network Design'],
+    },
+    {
       title: 'Smart StreetLight Monitoring',
       description:
         'A retrofitting unit designed to attach intelligence to legacy streetlights',

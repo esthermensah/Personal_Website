@@ -3,7 +3,7 @@ const siteConfig = {
     name: 'Esther Dzifa Mensah',
     // title: 'MSc Electrical & Computer Engineering',
     // institution: 'CMU',
-    department: 'College of Engineering',
+    // department: 'College of Engineering',
     email: 'edmworkmail@gmail.com',
     location: 'Kigali, Rwanda',
     avatar:'assets/profile_photo.jpg',

@@ -2,8 +2,8 @@ const siteConfig = {
   personal: {
     name: 'Esther Dzifa Mensah',
     title: 'Computer Networking Associate',
-    // institution: 'CMU',
-    department: 'Cloud Infrastructure',
+    institution: 'MSc',
+    department: 'Electrical & Computer Engineering',
     email: 'edmworkmail@gmail.com',
     location: 'Kigali, Rwanda',
     avatar:'assets/profile_photo.jpg',

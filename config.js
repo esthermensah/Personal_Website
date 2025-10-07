@@ -62,6 +62,7 @@ const siteConfig = {
       venue: 'ACM, the Association for Computing Machinery',
       year: '2025',
       type: 'Academic paper',
+      url: 'https://dl.acm.org/doi/10.1145/3711650.3711654',
     },
    
   

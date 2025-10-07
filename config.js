@@ -57,7 +57,7 @@ const siteConfig = {
   publications: [
     {
       title:
-        'Rural Connectivity: An Opportunistic Connectivity for Challenged Communities in Africa to Access Digital Public Goods/Infrastructures',
+      '<a href="https://dl.acm.org/doi/10.1145/3711650.3711654" target="_blank" class="gradient-link">Rural Connectivity: An Opportunistic Connectivity for Challenged Communities in Africa to Access Digital Public Goods/Infrastructures</a>',
       authors: 'Mohamed Alimamy Fofanah, Izera Ifituburyo Pacifique, Esther Dzifa Mensah, Emmanuel Ndashimye, Assane Gueye',
       venue: 'ACM, the Association for Computing Machinery',
       year: '2025',

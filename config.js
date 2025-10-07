@@ -32,7 +32,7 @@ const siteConfig = {
     My strength lies not only in my technical expertise but also in my mindset and approach to growth. My academic and professional journey across Rwanda, the United States, and Germany has shaped a global perspective and a deep appreciation for working with diverse teams and environments. 
     I thrive in collaborative spaces, adapt quickly to new challenges, and bring curiosity and initiative to every project I take on.
     I am eager to contribute meaningfully to innovative teams, continuously learn, and grow as I build solutions that make a tangible impact. 
-    I am also open to associate and entry-level opportunities that allow me to apply my skills while developing new ones.
+    I am open to associate and entry-level opportunities that allow me to apply my skills while developing new ones.
     `
     ,
 

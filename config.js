@@ -140,6 +140,7 @@ const siteConfig = {
       description: `
     <ul>
       <li>Contributed to the implementation of Bluetooth Low Energy (BLE) mesh for two-way local node connectivity and IoT device integration within an opportunistic delay-tolerant network prototype, facilitating data transfer between the nodes.</li>
+      </li>Co-authored a paper on the Rural Connectivity Project, accepted for presentation at the 13th International Conference on Networks, Communication and Computing (ICNCC 2024) and published by the Association for Computing Machinery (ACM). </li>
     </ul>` ,
     },
     

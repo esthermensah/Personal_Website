@@ -28,7 +28,7 @@ const siteConfig = {
     content:
       `I hold a MSc. in Electrical & Computer Engineering from Carnegie Mellon University.  My research and projects interests center on Computer Networking, IoTs, and Cloud computing. 
     On the days when I am not being an engineer, I am either managing an event or creating content on my <a href="https://dzifaesther.wordpress.com" target="_blank" class="gradient-link">Blog</a> 
-    or <a href="https://www.youtube.com/@growingwithDzidzi" target="_blank" class="gradient-link">YouTube channel</a>. <br><br>
+    or <a href="https://www.youtube.com/@growingwithDzidzi" target="_blank" class="gradient-link">YouTube channel</a>. <br>
     My strength lies not only in my technical expertise but also in my mindset and approach to growth. My academic and professional journey across Rwanda, the United States, and Germany has shaped a global perspective and a deep appreciation for working with diverse teams and environments. 
     I thrive in collaborative spaces, adapt quickly to new challenges, and bring curiosity and initiative to every project I take on.
     I am eager to contribute meaningfully to innovative teams, continuously learn, and grow as I build solutions that make a tangible impact. <br>

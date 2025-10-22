@@ -151,8 +151,8 @@ const siteConfig = {
       period: 'Sep 2022 - Dec 2022',
       description: `
     <ul>
-      <li> Coordinated Agile team activities, including stakeholder meetings and feedback loops, ensuring smooth project progress and clear communication.</li>
-      </li> Organized and verified project evaluation data and uploaded content to a web application, maintaining accuracy and consistency across English and French versions. </li>
+      <li>Coordinated Agile team activities, including stakeholder meetings and feedback loops, ensuring smooth project progress and clear communication.</li>
+      <li>Organized and verified project evaluation data and uploaded content to a web application, maintaining accuracy and consistency across English and French versions. </li>
       <li>Reviewed and ensured bilingual content accuracy, so the website correctly displayed French translations alongside English content.</li>
       <li>Prepared project documentation and status reports to support project continuity and client understanding.</li>
 
